@@ -36,6 +36,8 @@
 
 🌱 Currently exploring **LangChain**, **AI Agents** & **RAG Systems**
 
+🛌 Fun Fact: The best solutions hit me at 3 AM when I should be sleeping
+
 📫 Reach me at **devaqsa@gmail.com**
 
 <br clear="right"/>
@@ -102,14 +104,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devaqsa&custom_title=Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0d1117&title_color=FFFFFF&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devaqsa&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </div>
 
 ---
