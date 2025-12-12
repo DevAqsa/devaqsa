@@ -1,116 +1,154 @@
-<!-- Banner -->
-<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Aqsa%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<h1 align="center">Hi 👋, I'm Aqsa</h1>
-<h3 align="center">🚀 MERN Stack • Python Developer • Automation Engineer • Full-Time Remote Freelancer</h3>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+MERN+%2B+Python;3%2B+Years+Building+Web+Apps+%26+Automation;Turning+Ideas+into+Scalable+Products;Let's+Build+Something+Amazing+Together!)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devaqsa&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
- 
-</p>
+<br/>
 
----
-
-## 👩‍💻 About Me
-
-🔥 Full-time Freelancer • Web Developer • Automation Engineer  
-🌍 Working remotely since **2021**  
-💡 Passionate about web development, automation, AI tools, & problem-solving  
-
-### 🌟 What I Do  
-- 🌐 Build modern Web Apps (React, Next.js, Node.js, Express, MERN Stack)  
-- ⚙️ Develop backend systems using **Node.js / Express / Python / FastAPI / Flask**  
-- 🤖 Automate tasks using Python (Selenium, scripts, bots, scrapers)  
-- 🧠 Integrate Python with **AI tools** (LangChain, intelligent agents, assistants)  
-- 📊 Build data projects with Pandas & data processing  
-- 🎨 Design UI/UX in Figma  
-- 🛠️ Create WordPress custom themes & websites  
-- 🔍 Deploy & manage production-grade CI/CD workflows  
-
-📫 **Reach me:**  
-**Email:** devaqsa@gmail.com  
-**Portfolio:** 🌐 https://devaqsa.com  
-
----
-
-## 🔗 Connect With Me  
-<p align="left">
-<a href="https://devaqsa.com"><img src="https://skillicons.dev/icons?i=wordpress" height="45"/></a>
-<a href="https://codepen.io/devaqsa"><img src="https://skillicons.dev/icons?i=codepen" height="45"/></a>
-<a href="https://dev.to/devaqsa_60"><img src="https://skillicons.dev/icons?i=devto" height="45"/></a>
-<a href="https://linkedin.com/in/aqsa-mumtaz"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-<a href="https://stackoverflow.com/users/23181163/aqsa-mumtaz"><img src="https://skillicons.dev/icons?i=stackoverflow" height="45"/></a>
-<a href="https://www.facebook.com/freelancer.aqsamumtaz">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="45" width="45"/>
+<a href="https://devaqsa.com">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-devaqsa.com-00D09C?style=for-the-badge&labelColor=1a1a2e"/>
+</a>
+<a href="mailto:devaqsa@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-devaqsa@gmail.com-EA4335?style=for-the-badge&labelColor=1a1a2e"/>
+</a>
+<a href="https://linkedin.com/in/aqsa-mumtaz">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=1a1a2e"/>
 </a>
 
-<a href="https://www.instagram.com/aqsamumtaz610/"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
-<a href="https://medium.com/@codewithaqsa"><img src="https://skillicons.dev/icons?i=medium" height="45"/></a>
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=devaqsa&style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## ⚡ About Me
+
+🔥 **Full-time Remote Freelancer** since 2021
+
+💡 Passionate about **Web Development**, **Automation** & **AI Tools**
+
+🎯 I help businesses ship products faster with clean, scalable code
+
+🌱 Currently exploring **LangChain**, **AI Agents** & **RAG Systems**
+
+📫 Reach me at **devaqsa@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-## 💻 Tech Stack & Skills  
+## 🛠️ Tech Arsenal
 
-### **🚀 Frontend Development**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,bootstrap,tailwind,sass" />
-</p>
+<div align="center">
 
-### **⚙️ Backend Development**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
-</p>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### **🐍 Python Development**
-#### Python Tools I Work With:
-- Build **FastAPI**, **Flask**, **Django** applications  
-- Automation using Python scripts  
-- Web scraping & crawling (**Selenium, BeautifulSoup**)  
-- APIs, data processing, ETL pipelines  
-- AI tools: **LangChain, Agents, RAG, Python AI Integrations**  
-- Build **desktop GUI apps (PyQt)**  
-- Data science utilities using **Pandas, NumPy**  
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,selenium" />
-</p>
+### 🗄️ Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### **🛢 Databases**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+### 🔧 Tools & More
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-### **🛠 Tools, DevOps & Deployment**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,netlify,linux,postman,docker,webpack" />
-</p>
-
-### **🎨 CMS**
-<p align="left"><img src="https://skillicons.dev/icons?i=wordpress" /></p>
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaqsa&layout=compact&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devaqsa&show_icons=true&theme=radical" />
-</p>
+## 🚀 What I Do
 
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=devaqsa&theme=radical" />
-</p>
+<div align="center">
 
----
+| 🌐 Web Development | 🐍 Python & Automation | 🤖 AI Integration |
+|:---:|:---:|:---:|
+| Modern Web Apps | Backend Systems | LangChain & Agents |
+| React / Next.js | FastAPI / Django | RAG Systems |
+| REST & GraphQL APIs | Web Scraping & Bots | Intelligent Assistants |
+| WordPress & WooCommerce | Data Processing | AI-Powered Tools |
 
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devaqsa&theme=dracula&margin-w=15" />
-</p>
+</div>
 
 ---
 
-## ✨ Quote  
-> **"Code. Automate. Innovate. Repeat."**
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devaqsa&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Aqsa's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devaqsa&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=devaqsa&theme=transparent&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=6B7280" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devaqsa&custom_title=Contribution%20Graph&bg_color=0d1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0d1117&title_color=FFFFFF&area=true&hide_border=true" />
+</div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devaqsa&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://devaqsa.com"><img src="https://img.shields.io/badge/Website-devaqsa.com-00D09C?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/aqsa-mumtaz"><img src="https://img.shields.io/badge/LinkedIn-Aqsa%20Mumtaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/23181163/aqsa-mumtaz"><img src="https://img.shields.io/badge/Stack_Overflow-Aqsa-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://medium.com/@codewithaqsa"><img src="https://img.shields.io/badge/Medium-@codewithaqsa-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://dev.to/devaqsa_60"><img src="https://img.shields.io/badge/Dev.to-devaqsa-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+
+<br/><br/>
+
+### 💬 *"Code. Automate. Innovate. Repeat."*
+
+<br/>
+
+**⭐ If you like my work, consider giving a star to my repos!**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
